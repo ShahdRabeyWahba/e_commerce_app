@@ -1,0 +1,22 @@
+{
+  "welcome_back": "Welcome Back To Route",
+  "sign_in_prompt": "Please sign in with your mail",
+  "user_name": "User Name",
+  "enter_name": "enter your name",
+  "email_address": "E-mail address",
+  "enter_email": "enter your email address",
+  "password": "Password",
+  "enter_password": "enter your password",
+  "forgot_password": "Forgot password",
+  "login": "Login",
+  "dont_have_account": "Don't have an account? Create Account",
+  "full_name": "Full Name",
+  "enter_full_name": "enter your full name",
+  "mobile_number": "Mobile Number",
+  "enter_mobile": "enter your mobile no.",
+  "signup": "Sign up",
+  "search": "what do you search for?",
+  "categories": "Categories",
+  "view_all": "view all",
+  "home_appliance": "Home Appliance"
+}
